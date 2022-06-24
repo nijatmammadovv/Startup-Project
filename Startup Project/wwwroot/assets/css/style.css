@@ -1,0 +1,169 @@
+.nav-item .nav-link{
+    color: white;
+}
+
+.d-flex .btn{
+    color: white;
+}
+
+.container-fluid{
+    padding: 0 150px;
+}
+
+.hero{
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 94vh;
+}
+
+.herotext{
+    padding: 310px 0;
+    color: white;
+}
+
+.herotext h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+.herotext p{
+    font-size: 20px;
+}
+
+.features{
+    padding: 100px 0;
+}
+.card{
+
+}
+.card i{
+    display: inline-block !important;
+    font-size: 40px;
+    width: 80px;
+    height: 80px;
+    justify-content: center;
+    text-align: center;
+    padding: 12px;
+    color: red;
+}
+
+.card{
+    background-color: rgba(var(--bs-primary-rgb),var(--bs-bg-opacity))!important;
+    border: 1px solid rgba(var(--bs-primary-rgb),var(--bs-bg-opacity))!important;
+}
+
+
+
+.card .card-title{
+    color: white;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.card .card-text{
+    color: white;
+}
+
+.readytext{
+    padding: 100px 0;
+}
+
+.readytext img{
+    padding: 50px 0;
+}
+
+.readyimage{
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+/* .column {
+    float: left;
+    width: 16%;
+
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .column img{
+      width: 150px;
+      height: 150px;
+  }
+  .row{
+      padding: 0 140px;
+  } */
+
+.startup{
+    width: 100%;
+    height: 100vh;
+    padding: 200px 330px;
+    gap: 50px;
+}
+
+.right{
+    padding: 0 100px;
+}
+.left h1{
+    font-weight: 700;
+    font-size: 35px;
+    color: white;
+}
+.left p{
+    color: #959CB1;
+}
+.d-flex span{
+    color: #959CB1;
+}
+
+.d-flex i{
+    color: red;
+}
+
+.bug{
+    padding: 0 400px;
+    padding-top: 20px;
+}
+.right1{
+    padding: 20px 130px;
+}
+
+.users .text-center{
+    padding: 100px 0;
+}
+
+.d-flex i{
+    color: yellow;
+    font-size: 20px;
+}
+
+.monthly .text-center{
+    padding: 100px 0;
+}
+.monthly .card {
+    padding: 0 20px;
+}
+.monthly .card button{
+    width: 140px;
+}
+
+.monthly .card .icon{
+    color: white;
+}
+
+.monthly .card .icon i{
+    color: #4A6CF7;
+}
+.monthly .card  h1{
+    color: white;
+}
+.monthly .card  p{
+    color: white;
+}
